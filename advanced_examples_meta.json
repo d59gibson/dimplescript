@@ -1,0 +1,110 @@
+[
+    {
+        "id":"advanced_price_range_lollipop",
+        "title":"Price Changes",
+        "shortTitle":"Price Changes",
+        "desc":"This examples demonstrates multiple series, multiple axes, different aggregations and a storyboard."
+    },
+    {
+        "id":"advanced_pong",
+        "title":"Dimple Pong!",
+        "shortTitle":"Dimple Pong",
+        "desc":"Perhaps not the most useful chart but this is a demonstration of how the storyboard works.  See the \"Price Changes\" chart for a more practical example."
+    },
+    {
+        "id":"advanced_lollipop_with_hover",
+        "title":"Tooltip Charts",
+        "shortTitle":"Tooltip Charts",
+        "desc":"An extension of a standard bubble chart to show bar charts in tooltips"
+    },
+    {
+        "id":"advanced_dynamic_line_color",
+        "title":"Dynamic Line Colors",
+        "shortTitle":"Dynamic Colors",
+        "desc":"A line chart plotting unit sales, colored by price."
+    },
+    {
+        "id":"advanced_grouped_mekko",
+        "title":"Grouped Mekko",
+        "shortTitle":"Grouped Mekko",
+        "desc":"A marimekko chart showing SKUs grouped by owner and brand.  They have dynamic saturation and are animated by month just for good measure."
+    },
+    {
+        "id":"advanced_trellis_bar",
+        "title":"Trellis Bars",
+        "shortTitle":"Trellis Bars",
+        "desc":"This demonstrates how to build a trellis chart by iterating and inserting chart objects."
+    },
+    {
+        "id":"advanced_matrix",
+        "title":"Mekko Matrix",
+        "shortTitle":"Mekko Matrix",
+        "desc":"A matrix chart where each point is replaced with a marimekko.  This is an alternative means of creating a trellis."
+    },
+    {
+        "id":"advanced_bullet",
+        "title":"Bullet Charts",
+        "shortTitle":"Bullet Charts",
+        "desc":"This is a chart which requires a little bit of manipulation to achieve, but demonstrates that dimple can be made to do non-standard things.  This example is done in a fairly reusable format so should help those wanting bullet charts."
+    },
+    {
+        "id":"advanced_time_axis",
+        "title":"Time Bubble Lines",
+        "shortTitle":"Bubble Lines",
+        "desc":"This is a demonstration of the new time axis functionality.  This is an unusual case plotting 2 time axes against each other.  It also shows a way to plot bubbles as line point weightings."
+    },
+    {
+        "id":"advanced_interactive_legends",
+        "title":"Interactive Legend",
+        "shortTitle":"Toggle Legend",
+        "desc":"The Legend on this chart has been made interactive.  It is useful to note the method for orphaning the legend before updating the chart."
+    },
+    {
+        "id":"advanced_storyboard_control",
+        "title":"Storyboard Control",
+        "shortTitle":"Storyboard Ctrl",
+        "desc":"This is an example of controlling the storyboard with the tick event and other methods.  Clicking the side chart with select a frame and pause the animation, clicking again will resume."
+    },
+    {
+        "id":"advanced_bar_labels",
+        "title":"Bar Labels",
+        "shortTitle":"Bar Labels",
+        "desc":"At the moment dimple doesn't natively deal with labels.  Until this functionality is fully added it is still fairly straightforward to add labels manually.  This example shows a way to do it for a bar chart."
+    },
+    {
+        "id":"advanced_waterfall",
+        "title":"Waterfall Chart",
+        "shortTitle":"Waterfall",
+        "desc":"Due to the unusual data treatment in a waterfall/staircase chart creating one in dimple requires a little manipulation using a bar chart.  To use this template just update the first 5 variables. A simpler template could be created if you aren't concerned with crossing the x axis."
+    },
+    {
+        "id":"advanced_responsive_sizing",
+        "title":"Responsive Sizing",
+        "shortTitle":"Responsive Size",
+        "desc":"Example of the new responsive sizing functionality, meaning charts no longer have to have a fixed pixel size.  Click the button to open a resizeable chart."
+    },
+    {
+        "id":"advanced_change_bubbles",
+        "title":"Ghost Bubbles",
+        "shortTitle":"Ghost Bubbles",
+        "desc":"This demonstrates an approach for maintaining historic values in a storyboard chart.  A background chart is used to store old values when the storyboard on the main chart updates."
+    },
+    {
+        "id":"advanced_animated_multiple_pie_bubbles",
+        "title":"Animated Pie Bubbles",
+        "shortTitle":"Pie Bubbles",
+        "desc":"This demonstrates both combining pie and ring charts and using them with a storyboard to display seven different dimensions. REMEMBER: Just because you can, doesn't mean you should!"
+    },
+    {
+        "id":"advanced_custom_styling",
+        "title":"Custom Styling",
+        "shortTitle":"Custom Styling",
+        "desc":"Many people associate dimple with its own look and feel, however it can also be used to deal with the chart functionality leaving you free to concentrate on design.  This is just a small example of possible techniques you could apply."
+    },
+    {
+        "id":"advanced_bars_sketchy",
+        "title":"Custom Classes",
+        "shortTitle":"Custom Classes",
+        "desc":"Dimple allows you to assign your own classes to its objects for simple styling when chart.noFormats = true.  Here's how your chart might look if you drew it with a marker pen."
+    }
+]

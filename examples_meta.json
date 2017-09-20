@@ -1,0 +1,639 @@
+[
+    {
+        "id":"bars_vertical",
+        "title":"Vertical Bar",
+        "shortTitle":"Vt Bar",
+        "group":"Bar Charts",
+        "desc":"A simple unstacked vertical bar chart"
+    },
+    {
+        "id":"bars_vertical_stacked",
+        "title":"Vertical Stacked Bar",
+        "shortTitle":"Vt Stacked Bar",
+        "group":"Bar Charts",
+        "desc":"A simple stacked vertical bar chart"   
+    },
+    {
+        "id":"bars_vertical_stacked_100pct",
+        "title":"Vertical 100% Bar",
+        "shortTitle":"Vt 100% Bar",
+        "group":"Bar Charts",
+        "desc":"A proportional vertical bar chart"      
+    },
+    {
+        "id":"bars_vertical_grouped",
+        "title":"Vertical Grouped Bar",
+        "shortTitle":"Vt Grouped Bar",
+        "group":"Bar Charts",
+        "desc":"An unstacked grouped vertical bar chart"
+    },
+    {
+        "id":"bars_vertical_grouped_stacked",
+        "title":"Vert Stacked Grouped Bar",
+        "shortTitle":"Vt Group Stack Bar",
+        "group":"Bar Charts",
+        "desc":"A stacked grouped vertical bar chart"
+    },
+    {
+        "id":"bars_vertical_grouped_stacked_100pct",
+        "title":"Vert 100% Grouped Bar",
+        "shortTitle":"Vt 100% Stack Bar",
+        "group":"Bar Charts",
+        "desc":"A proportional grouped vertical bar chart"
+    },
+    {
+        "id":"bars_horizontal",
+        "title":"Horizontal Bar",
+        "shortTitle":"Hz Bar",
+        "group":"Bar Charts",
+        "desc":"A simple unstacked horizontal bar chart"
+    },
+    {
+        "id":"bars_horizontal_stacked",
+        "title":"Horizontal Stacked Bar",
+        "shortTitle":"Hz Stacked Bar",
+        "group":"Bar Charts",
+        "desc":"A simple stacked horizontal bar chart"       
+    },
+    {
+        "id":"bars_horizontal_stacked_100pct",
+        "title":"Horizontal 100% Bar",
+        "shortTitle":"Hz 100% Bar",
+        "group":"Bar Charts",
+        "desc":"A proportional horizontal bar chart"    
+    },
+    {
+        "id":"bars_horizontal_grouped",
+        "title":"Hz Grouped Bar",
+        "shortTitle":"Hz Grouped Bar",
+        "group":"Bar Charts",
+        "desc":"An unstacked grouped horizontal bar chart"
+    },
+    {
+        "id":"bars_horizontal_grouped_stacked",
+        "title":"Horiz Stacked Grouped Bar",
+        "shortTitle":"Hz Group Stack Bar",
+        "group":"Bar Charts",
+        "desc":"A stacked grouped horizontal bar chart"
+    },
+    {
+        "id":"bars_horizontal_grouped_stacked_100pct",
+        "title":"Horiz 100% Grouped Bar",
+        "shortTitle":"Hz 100% Stack Bar",
+        "group":"Bar Charts",
+        "desc":"A proportional grouped horizontal bar chart"
+    },
+    {
+        "id":"bars_vertical_mekko",
+        "title":"Marimekko",
+        "shortTitle":"Vertical Mekko",
+        "group":"Bar Charts",
+        "desc":"A standard vertical marimekko"
+    },
+    {
+        "id":"bars_horizontal_mekko",
+        "title":"Horizontal Mekko",
+        "shortTitle":"Horizontal Mekko",
+        "group":"Bar Charts",
+        "desc":"A horizontally oriented marimekko"
+    },
+    {
+        "id":"bars_matrix",
+        "title":"Block Matrix",
+        "shortTitle":"Block Matrix",
+        "group":"Bar Charts",
+        "desc":"A non-metric display of category presence"
+    },
+    {
+        "id":"bars_horizontal_floating",
+        "title":"Horizontal Floating Bars",
+        "shortTitle":"Horiz Float Bars",
+        "group":"Bar Charts",
+        "desc":"Horizontal floating marker bars"
+    },
+    {
+        "id":"bars_vertical_floating",
+        "title":"Vertical Floating Bars",
+        "shortTitle":"Vert Float Bars",
+        "group":"Bar Charts",
+        "desc":"Vertical floating marker bars"
+    },
+    {
+        "id":"bars_dual_measure_floating",
+        "title":"Floating Bars",
+        "shortTitle":"Floating Bars",
+        "group":"Bar Charts",
+        "desc":"A dual measure bar chart"
+    },
+    {
+        "id":"pie_standard",
+        "title":"Pie Chart",
+        "shortTitle":"Pie Chart",
+        "group":"Pie Charts",
+        "desc":"A simple pie chart"
+    },
+    {
+        "id":"pie_matrix",
+        "title":"Pie Matrix",
+        "shortTitle":"Pie Matrix",
+        "group":"Pie Charts",
+        "desc":"A pie matrix"
+    },
+    {
+        "id":"pie_vertical_lollipop",
+        "title":"Lollipop Pie",
+        "shortTitle":"Lolli Pie",
+        "group":"Pie Charts",
+        "desc":"A vertical lollipop pie"
+    },
+    {
+        "id":"pie_vertical_grouped",
+        "title":"Grouped Lollipop Pie",
+        "shortTitle":"Group Lolli Pie",
+        "group":"Pie Charts",
+        "desc":"A vertical grouped lollipop pie"
+    },
+    {
+        "id":"pie_horizontal_lollipop",
+        "title":"Horiz Lollipop Pie",
+        "shortTitle":"Lolli Pie",
+        "group":"Pie Charts",
+        "desc":"A horizontal lollipop pie"
+    },
+    {
+        "id":"pie_horizontal_grouped",
+        "title":"Horiz Grouped Lolli Pie",
+        "shortTitle":"Group Lolli Pie",
+        "group":"Pie Charts",
+        "desc":"A horizontal grouped lollipop pie"
+    },
+    {
+        "id":"pie_scatter",
+        "title":"Scatter Pie",
+        "shortTitle":"Scatter Pie",
+        "group":"Pie Charts",
+        "desc":"A scatter chart with pies"
+    },
+    {
+        "id":"pie_bubble",
+        "title":"Bubble Pie",
+        "shortTitle":"Bubble Pie",
+        "group":"Pie Charts",
+        "desc":"A bubble chart with pies"
+    },
+    {
+        "id":"scatter_standard",
+        "title":"Scatter",
+        "shortTitle":"Scatter",
+        "group":"Scatter Charts",
+        "desc":"A simple two measure scatter chart"     
+    },
+    {
+        "id":"scatter_vertical_lollipop",
+        "title":"Vertical Lollipop",
+        "shortTitle":"Vt Lollipop",
+        "group":"Scatter Charts",
+        "desc":"A vertically positioned lollipop chart"     
+    },
+    {
+        "id":"scatter_vertical_grouped",
+        "title":"Vertical Grouped Lollipop",
+        "shortTitle":"Vt Group Lollipop",
+        "group":"Scatter Charts",
+        "desc":"A vertically grouped lollipop chart"     
+    },
+    {
+        "id":"scatter_horizontal_lollipop",
+        "title":"Horizontal Lollipop",
+        "shortTitle":"Hz Lollipop",
+        "group":"Scatter Charts",
+        "desc":"A horizontally positioned lollipop chart"     
+    },
+    {
+        "id":"scatter_horizontal_grouped",
+        "title":"Horizontal Grouped Lollipop",
+        "shortTitle":"Hz Group Lollipop",
+        "group":"Scatter Charts",
+        "desc":"A horizontally grouped lollipop chart"     
+    },
+    {
+        "id":"scatter_matrix",
+        "title":"Dot Matrix",
+        "shortTitle":"Dot Matrix",
+        "group":"Scatter Charts",
+        "desc":"A non-metric display of category presence"
+    },
+    {
+        "id":"bubbles_standard",
+        "title":"Bubble",
+        "shortTitle":"Bubble",
+        "group":"Bubble Charts",
+        "desc":"A simple three measure bubble chart"   
+    },
+    {
+        "id":"bubbles_vertical_lollipop",
+        "title":"Vertical Bubble Lollipop",
+        "shortTitle":"Vt Bubblepop",
+        "group":"Bubble Charts",
+        "desc":"A vertically positioned bubble lollipop"     
+    },
+    {
+        "id":"bubbles_vertical_grouped",
+        "title":"Vertical Grouped Bubblepop",
+        "shortTitle":"Vt Group Bubble",
+        "group":"Bubble Charts",
+        "desc":"A vertically grouped bubble lollipop"     
+    },
+    {
+        "id":"bubbles_horizontal_lollipop",
+        "title":"Horizontal Bubble Lollipop",
+        "shortTitle":"Hz Bubblepop",
+        "group":"Bubble Charts",
+        "desc":"A horizontally positioned bubble lollipop"     
+    },
+    {
+        "id":"bubbles_horizontal_grouped",
+        "title":"Horiz Grouped Bubblepop",
+        "shortTitle":"Hz Group Bubble",
+        "group":"Bubble Charts",
+        "desc":"A horizontally grouped bubble lollipop"     
+    },
+    {
+        "id":"bubbles_matrix",
+        "title":"Bubble Matrix",
+        "shortTitle":"Bubble Matrix",
+        "group":"Bubble Charts",
+        "desc":"A metric display of category presence"
+    },
+    {
+        "id":"areas_horizontal",
+        "title":"Area",
+        "shortTitle":"Area",
+        "group":"Area Charts",
+        "desc":"A standard area chart"  
+    },
+    {
+        "id":"areas_horizontal_stacked",
+        "title":"Stacked Area",
+        "shortTitle":"Stacked Area",
+        "group":"Area Charts",
+        "desc":"A standard stacked area chart"  
+    },
+    {
+        "id":"areas_horizontal_stacked_100pct",
+        "title":"100% Stacked Area",
+        "shortTitle":"100% Stacked Area",
+        "group":"Area Charts",
+        "desc":"A 100% stacked area chart"  
+    },
+    {
+        "id":"areas_horizontal_grouped",
+        "title":"Grouped Area",
+        "shortTitle":"Grouped Area",
+        "group":"Area Charts",
+        "desc":"A grouped area chart"  
+    },
+    {
+        "id":"areas_horizontal_grouped_stacked",
+        "title":"Grouped Stacked Area",
+        "shortTitle":"Group Stack Area",
+        "group":"Area Charts",
+        "desc":"A grouped stacked area chart"  
+    },
+    {
+        "id":"areas_horizontal_grouped_100pct",
+        "title":"Grouped 100% Area",
+        "shortTitle":"Group 100% Area",
+        "group":"Area Charts",
+        "desc":"A grouped 100% stacked area chart"  
+    },
+    {
+        "id":"areas_vertical",
+        "title":"Vertical Area",
+        "shortTitle":"Vt Area",
+        "group":"Area Charts",
+        "desc":"A vertical area chart"  
+    },
+    {
+        "id":"areas_vertical_stacked",
+        "title":"Vertical Stacked Area",
+        "shortTitle":"Vt Stacked Area",
+        "group":"Area Charts",
+        "desc":"A vertical stacked area chart"  
+    },
+    {
+        "id":"areas_vertical_stacked_100pct",
+        "title":"100% Vertical Stacked Area",
+        "shortTitle":"Vt 100% Area",
+        "group":"Area Charts",
+        "desc":"A vertical 100% stacked area chart"  
+    },
+    {
+        "id":"areas_vertical_grouped",
+        "title":"Vt Grouped Area",
+        "shortTitle":"Vt Grouped Area",
+        "group":"Area Charts",
+        "desc":"A vertical grouped area chart"  
+    },
+    {
+        "id":"areas_vertical_grouped_stacked",
+        "title":"Vt Grouped Stack Area",
+        "shortTitle":"Vt Grp Stack Area",
+        "group":"Area Charts",
+        "desc":"A vertical grouped stacked area chart"  
+    },
+    {
+        "id":"areas_vertical_grouped_100pct",
+        "title":"Vt Group 100% Area",
+        "shortTitle":"Vt Grp 100% Area",
+        "group":"Area Charts",
+        "desc":"A vertical grouped 100% area chart"
+    },
+    {
+        "id":"areas_dual_measure",
+        "title":"Dual Measure Area",
+        "shortTitle":"Dual Measure Area",
+        "group":"Area Charts",
+        "desc":"An area chart with 2 measure axes"
+    },
+    {
+        "id":"areas_curvy",
+        "title":"Curvy Area Chart",
+        "shortTitle":"Curvy Area",
+        "group":"Area Charts",
+        "desc":"An area chart cardinal interpolation"
+    },
+    {
+        "id":"lines_horizontal",
+        "title":"Single Line",
+        "shortTitle":"Single Line",
+        "group":"Line Charts",
+        "desc":"An aggregate line chart"  
+    },
+    {
+        "id":"lines_horizontal_stacked",
+        "title":"Multiple Line",
+        "shortTitle":"Multiple Line",
+        "group":"Line Charts",
+        "desc":"A standard split line chart"  
+    },
+    {
+        "id":"lines_horizontal_grouped",
+        "title":"Grouped Single Line",
+        "shortTitle":"Group Single Line",
+        "group":"Line Charts",
+        "desc":"A grouped single line chart"  
+    },
+    {
+        "id":"lines_horizontal_grouped_stacked",
+        "title":"Grouped Multiple Line",
+        "shortTitle":"Group Multi Line",
+        "group":"Line Charts",
+        "desc":"A grouped multiple line chart"  
+    },
+    {
+        "id":"lines_vertical",
+        "title":"Single Vertical Line",
+        "shortTitle":"Vertical Line",
+        "group":"Line Charts",
+        "desc":"An aggregate vertical line chart"  
+    },
+    {
+        "id":"lines_vertical_stacked",
+        "title":"Multiple Vertical Line",
+        "shortTitle":"Vert Multi Line",
+        "group":"Line Charts",
+        "desc":"A vertical split line chart"  
+    },
+    {
+        "id":"lines_vertical_grouped",
+        "title":"Grouped Vertical Line",
+        "shortTitle":"Group Vert Line",
+        "group":"Line Charts",
+        "desc":"A grouped vertical single line chart"  
+    },
+    {
+        "id":"lines_vertical_grouped_stacked",
+        "title":"Vert Grouped Multi Line",
+        "shortTitle":"Vt Grp Multi Line",
+        "group":"Line Charts",
+        "desc":"A vertical grouped multiple line chart"  
+    },
+    {
+        "id":"lines_dual_measure",
+        "title":"Dual Measure Line",
+        "shortTitle":"Dual Measure Line",
+        "group":"Line Charts",
+        "desc":"An line chart with 2 measure axes"
+    },
+    {
+        "id":"lines_curvy",
+        "title":"Curvy Line Chart",
+        "shortTitle":"Curvy Line",
+        "group":"Line Charts",
+        "desc":"An line chart cardinal interpolation"
+    },
+    {
+        "id":"ring_standard",
+        "title":"Ring Chart",
+        "shortTitle":"Ring Chart",
+        "group":"Ring Charts",
+        "desc":"A simple ring chart"
+    },
+    {
+        "id":"ring_multiple",
+        "title":"Concentric Ring Chart",
+        "shortTitle":"Multi Ring Chart",
+        "group":"Ring Charts",
+        "desc":"Many ring charts can be plotted concentrically"
+    },
+    {
+        "id":"ring_matrix",
+        "title":"Ring Matrix",
+        "shortTitle":"Ring Matrix",
+        "group":"Ring Charts",
+        "desc":"A ring matrix"
+    },
+    {
+        "id":"ring_vertical_lollipop",
+        "title":"Lollipop Ring",
+        "shortTitle":"Lolli Ring",
+        "group":"Ring Charts",
+        "desc":"A vertical lollipop ring chart"
+    },
+    {
+        "id":"ring_vertical_grouped",
+        "title":"Grouped Lollipop Ring",
+        "shortTitle":"Group Lolli Ring",
+        "group":"Ring Charts",
+        "desc":"A vertical grouped lollipop ring chart"
+    },
+    {
+        "id":"ring_horizontal_lollipop",
+        "title":"Horiz Lollipop Ring",
+        "shortTitle":"Lolli Ring",
+        "group":"Ring Charts",
+        "desc":"A horizontal lollipop ring chart"
+    },
+    {
+        "id":"ring_horizontal_grouped",
+        "title":"Horiz Grouped Lolli Ring",
+        "shortTitle":"Group Lolli Ring",
+        "group":"Ring Charts",
+        "desc":"A horizontal grouped lollipop ring chart"
+    },
+    {
+        "id":"ring_scatter",
+        "title":"Scatter Ring",
+        "shortTitle":"Scatter Ring",
+        "group":"Ring Charts",
+        "desc":"A scatter chart with rings"
+    },
+    {
+        "id":"ring_bubble",
+        "title":"Bubble Ring",
+        "shortTitle":"Bubble Ring",
+        "group":"Ring Charts",
+        "desc":"A bubble chart with rings"
+    },
+    {
+        "id":"steps_horizontal",
+        "title":"Single Step Line",
+        "shortTitle":"Single Steps",
+        "group":"Step Charts",
+        "desc":"An aggregate step line chart"
+    },
+    {
+        "id":"steps_horizontal_stacked",
+        "title":"Multiple Step Line",
+        "shortTitle":"Multiple Steps",
+        "group":"Step Charts",
+        "desc":"A standard split step line chart"
+    },
+    {
+        "id":"steps_horizontal_grouped",
+        "title":"Grouped Step Line",
+        "shortTitle":"Group Step Line",
+        "group":"Step Charts",
+        "desc":"A grouped single step line chart"
+    },
+    {
+        "id":"steps_horizontal_grouped_stacked",
+        "title":"Grouped Multiple Step Line",
+        "shortTitle":"Group Multi Step",
+        "group":"Step Charts",
+        "desc":"A grouped multiple step line chart"
+    },
+    {
+        "id":"steps_vertical",
+        "title":"Single Vertical Step Line",
+        "shortTitle":"Vertical Step",
+        "group":"Step Charts",
+        "desc":"An aggregate vertical step line chart"
+    },
+    {
+        "id":"steps_vertical_stacked",
+        "title":"Multiple Vertical Step Line",
+        "shortTitle":"Vert Multi Step",
+        "group":"Step Charts",
+        "desc":"A vertical split step line chart"
+    },
+    {
+        "id":"steps_vertical_grouped",
+        "title":"Grouped Vertical Step Line",
+        "shortTitle":"Group Vert Step",
+        "group":"Step Charts",
+        "desc":"A grouped vertical single step line chart"
+    },
+    {
+        "id":"steps_vertical_grouped_stacked",
+        "title":"Vert Grouped Multi Step Line",
+        "shortTitle":"Vt Grp Multi Step",
+        "group":"Step Charts",
+        "desc":"A vertical grouped multiple step line chart"
+    },
+    {
+        "id":"area_steps_horizontal",
+        "title":"Single Step Area",
+        "shortTitle":"Single Steps",
+        "group":"Step Area Charts",
+        "desc":"An aggregate step area chart"
+    },
+    {
+        "id":"area_steps_horizontal_stacked",
+        "title":"Multiple Step Area",
+        "shortTitle":"Multiple Steps",
+        "group":"Step Area Charts",
+        "desc":"A standard split step area chart"
+    },
+    {
+        "id":"area_steps_horizontal_stacked_100pct",
+        "title":"100% Stacked Step Area",
+        "shortTitle":"100% Steps",
+        "group":"Step Area Charts",
+        "desc":"A 100% stacked step area chart"
+    },
+    {
+        "id":"area_steps_horizontal_grouped",
+        "title":"Grouped Step Area",
+        "shortTitle":"Group Steps",
+        "group":"Step Area Charts",
+        "desc":"A grouped single step area chart"
+    },
+    {
+        "id":"area_steps_horizontal_grouped_stacked",
+        "title":"Grouped Multiple Step Area",
+        "shortTitle":"Group Multi Step",
+        "group":"Step Area Charts",
+        "desc":"A grouped multiple step area chart"
+    },
+    {
+        "id":"area_steps_horizontal_grouped_100pct",
+        "title":"100% Horizontal Group Step",
+        "shortTitle":"100% Hor Grp Step",
+        "group":"Step Area Charts",
+        "desc":"A grouped horizontal 100% step area chart"
+    },
+    {
+        "id":"area_steps_vertical",
+        "title":"Single Vertical Step Area",
+        "shortTitle":"Vertical Step",
+        "group":"Step Area Charts",
+        "desc":"An aggregate vertical step area chart"
+    },
+    {
+        "id":"area_steps_vertical_stacked",
+        "title":"Multiple Vertical Step Area",
+        "shortTitle":"Vert Multi Step",
+        "group":"Step Area Charts",
+        "desc":"A vertical split step area chart"
+    },
+    {
+        "id":"area_steps_vertical_stacked_100pct",
+        "title":"100% Vertical Step Area",
+        "shortTitle":"100% Vertical Steps",
+        "group":"Step Area Charts",
+        "desc":"A vertical 100% stacked step area chart"
+    },
+    {
+        "id":"area_steps_vertical_grouped",
+        "title":"Grouped Vertical Step Area",
+        "shortTitle":"Group Vert Step",
+        "group":"Step Area Charts",
+        "desc":"A grouped vertical single step area chart"
+    },
+    {
+        "id":"area_steps_vertical_grouped_stacked",
+        "title":"Vert Group Multi Step Area",
+        "shortTitle":"Vt Grp Multi Step",
+        "group":"Step Area Charts",
+        "desc":"A vertical grouped multiple step area chart"
+    },
+    {
+        "id":"area_steps_vertical_grouped_100pct",
+        "title":"100% Vertical Group Step Area",
+        "shortTitle":"100% Vert Grp Step",
+        "group":"Step Area Charts",
+        "desc":"A grouped vertical 100% stacked step area chart"
+    }
+]
